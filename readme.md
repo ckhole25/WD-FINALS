@@ -128,6 +128,7 @@ Pinterest Wallpapers | Got all my images and background wallpapers from pinteres
 | Google | where i got some of my style animation effects | Google.com |
 | Github | where i got the template that i used for uploading this repository | https://github.com/zyx-0314/WD-Template-Project |
 | Wakatime | my integrated time on wakatime | https://wakatime.com/dashboard |
+| W3Sschools | where i got helped from some of my codes | https://www.w3schools.com/ |
 
 
 WAKATIME INTEGRATION 
