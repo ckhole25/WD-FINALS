@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/ckhole25">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./pages/page1/assets/img/wallpaper.jpg" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Final Project</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+This activity is for our final project in Web Design, a combination or a porfolio of all of our past activities
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=https://github.dev/ckhole25/WD-FINALS)
 
 ---
 
@@ -60,17 +60,23 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
+- Final project consisting of every output from the past
+- To conclude all the learned lesson from the past
 - What are key components
+- landing page
+- About me page
+- My projects 
+- My contacts 
 - What technology used and how it is used
+- HTML
+- CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- HTML
+- CSS
+- JAVASCRIPT
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -117,4 +123,12 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+Pinterest Wallpapers | Got all my images and background wallpapers from pinteres | Pinterest.com |
+| Youtube tutorials | youtube vidoes helped me figure out some coding problems | Youtube.com |
+| Google | where i got some of my style animation effects | Google.com |
+| Github | where i got the template that i used for uploading this repository | https://github.com/zyx-0314/WD-Template-Project |
+| Wakatime | my integrated time on wakatime | https://wakatime.com/dashboard |
+
+
+WAKATIME INTEGRATION 
+https://wakatime.com/dashboard

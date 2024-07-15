@@ -1,0 +1,173 @@
+/* Existing styles */
+body {
+    margin: 0;
+    font-family: 'Playfair Display', serif;
+    color: #333;
+}
+
+.header {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.top-bar {
+    background-color: #efefef;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+}
+
+.navbar .logo {
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.navbar img {
+    height: 100px; /* Increase the height of the logo image */
+    width: fit-content;
+}
+
+.navbar .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+.navbar .nav-links li {
+    font-size: 16px;
+    position: relative;
+}
+
+.navbar .nav-links a {
+    text-decoration: none;
+    color: #333;
+    position: relative;
+    padding-bottom: 5px;
+}
+
+.navbar .nav-links a::after {
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background: #000;
+    left: 50%;
+    bottom: 0;
+    transition: width 0.3s ease, left 0.3s ease;
+}
+
+.navbar .nav-links a:hover::after {
+    width: 100%;
+    left: 0;
+}
+
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    color: black;
+    padding: 40px 20px;
+    background-color: white;
+    margin-top: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.hero .wallpaper {
+    max-width: 50%;
+    overflow: hidden;
+    border-radius: 12px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-right: 20px;
+}
+
+.hero .character {
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+}
+
+.hero .character:hover {
+    transform: scale(1.2);
+}
+
+.hero .content {
+    flex: 1;
+    padding: 20px;
+}
+
+.hero .date {
+    margin-bottom: 20px;
+}
+
+.hero .description {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+.hero .top {
+    margin-bottom: 20px;
+}
+
+.hero .card1, .hero .card2 {
+    background-color: #f9f9f9;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.hero .title {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.hero .card2 ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer {
+    background-color: transparent;
+    color: black;
+    padding: 20px 0;
+}
+
+.footer .container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+.footer ul li {
+    margin: 0 10px;
+}
+
+.footer ul li a {
+    color: black;
+    transition: color 0.3s ease;
+}
+
+.footer ul li a:hover {
+    color: #ccc;
+}
